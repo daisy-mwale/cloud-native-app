@@ -1,0 +1,24 @@
+{
+  "name": "cloud-native-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "start": "node app.js"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daisy-mwale/cloud-native-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/daisy-mwale/cloud-native-app/issues"
+  },
+  "homepage": "https://github.com/daisy-mwale/cloud-native-app#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
